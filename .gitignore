@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.key
+
+# Agent sandbox + run logs
+workspace/
+logs/
+*.log
+
+# Misc
+.DS_Store
